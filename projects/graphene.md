@@ -9,7 +9,7 @@ labels:
   - Graphene
   - Semiconductors
   - STM
-summary: My team developed a robotic mouse for the 2016 UH Micromouse competition.
+summary: Study the characteristics of Graphene and create a DIY Scanning Tunneling Microscope.
 ---
 <div class="ui small rounded images">
   <img class="ui image" src="../images/graphene1.jpg">
