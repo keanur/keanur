@@ -4,7 +4,7 @@ type: project
 image: images/marching.png
 title: Mililani HS Marching Band Technician
 permalink: projects/marching
-date: 2014-2015
+date: 2014
 labels:
   - Music
   - Marching Band
