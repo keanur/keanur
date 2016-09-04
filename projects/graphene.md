@@ -4,7 +4,7 @@ type: project
 image: images/micromouse.jpg
 title: University of Hawaii at Manoa Graphene Research
 permalink: projects/graphene
-date: 2016
+date: 2015
 labels:
   - Graphene
   - Semiconductors
