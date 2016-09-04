@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/graphene.JPG
 title: University of Hawaii at Manoa Graphene Research
 permalink: projects/graphene
 date: 2015
