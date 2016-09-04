@@ -3,11 +3,12 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: University of Hawaii at Manoa Graphene Research
-permalink: projects/micromouse
+permalink: projects/graphene
 date: 2016
 labels:
-  - Robotics
-  - C/C++
+  - Graphene
+  - Semiconductors
+  - STM
 summary: My team developed a robotic mouse for the 2016 UH Micromouse competition.
 ---
 <div class="ui small rounded images">
