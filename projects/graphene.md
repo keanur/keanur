@@ -11,9 +11,9 @@ labels:
 summary: My team developed a robotic mouse for the 2016 UH Micromouse competition.
 ---
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
+  <img class="ui image" src="../images/graphene1.jpg">
+  <img class="ui image" src="../images/graphene2.jpg">
+  <img class="ui image" src="../images/graphene3.jpg">
 </div>
 
 Graphene is a two dimensional structure of Carbon atoms in hexagonal honeycomb arrangements.  Some of Graphene's properties is that it is the best conductor of heat at room temperature and it is also the best conductor of electricity known.  Because of its interesting properties, Graphene is being thoroughly studied for many potential applications. 
