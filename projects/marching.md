@@ -12,7 +12,6 @@ labels:
 summary: Marching and Music Technician for the Mililani High School "Trojan" Marching Band.
 ---
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/marching1.jpg">
   <img class="ui image" src="../images/marching2.jpg">
   <img class="ui image" src="../images/marching3.jpg">
 </div>
