@@ -11,4 +11,4 @@ labels:
 summary: My team developed a robotic mouse for the 2016 UH Micromouse competition.
 ---
 
-Learn more about the project 
+Learn more about the project [here](http://keanur.wixsite.com/stm-spring2016).
