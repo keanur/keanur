@@ -12,7 +12,7 @@ labels:
 summary: Create a application that provides easy access to 200+ University of Hawaii at Manoa Clubs
 ---
 
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/clubconnector.png">
 </div>
 
