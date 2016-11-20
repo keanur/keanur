@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/graphene.JPG
+image: images/club.jpg
 title: ClubConnector
 permalink: projects/clubconnector
 date: 2016
