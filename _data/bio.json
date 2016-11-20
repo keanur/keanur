@@ -115,7 +115,7 @@
   ],
   "volunteer": [
     {
-      "company": "St. John Apostle and Evangelist Catholic Church",
+      "organization": "St. John Apostle and Evangelist Catholic Church",
       "position": "Usher",
       "website": "http://www.stjohnmililani.org",
       "startDate": "2009-01-01",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "company": "Mililani High School",
+      "organization": "Mililani High School",
       "position": "Volunteer/Technician",
       "website": "http://www.mhsmarching.org",
       "startDate": "2013-01-01",
