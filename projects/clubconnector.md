@@ -9,7 +9,7 @@ labels:
   - Meteor
   - Web Application
   - Software Development
-summary: Create a application that provides easy access to 200+ University of Hawaii at Manoa Clubs
+summary: Create an application that provides easy access to 200+ University of Hawaii at Manoa Clubs
 ---
 
 <div class="ui rounded image">
