@@ -71,16 +71,43 @@
     }
   ],
   "work": [
+  {
+      "company": "School of Ocean, Earth Science, and Technology",
+      "position": "Student Assistant",
+      "website": "",
+      "startDate": "2013-10-01",
+      "endDate": "2014-08-15",
+      "summary": "",
+      "highlights": [
+        "Sorted and filed incoming and outgoing mail",
+        "Maintained office inventory",
+        "Created spreadsheets for files such as purchasing card logs",
+      ]
+    },
     {
       "company": "UH Information Technology Services",
       "position": "Student Assistant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-15",
+      "endDate": "2016-09-09",
+      "summary": "",
+      "highlights": [
+        "Provide assistance to ITS computer lab users (i.e. reset user passwords, etc.)",
+        "Maintain the ITS computer labs",
+        "Assist with wireless configuration for connection to the UH-Manoa wireless network",
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-15",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provide email support for users",
+        "Troubleshoot problems over the phone",
+        "Assist with managing the UH-Manoa wireless network",
       ]
     }
   ],
