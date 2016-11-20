@@ -45,6 +45,8 @@
     {
       "name": "software engineering",
       "keywords": [
+        "databases",
+        "application development"
         ]
     }
   ],
@@ -113,16 +115,33 @@
   ],
   "volunteer": [
     {
-    }
-  ],
-  "awards": [
+      "company": "St. John Apostle and Evangelist Catholic Church",
+      "position": "Usher",
+      "website": "http://www.stjohnmililani.org",
+      "startDate": "2009-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Manage incoming donations",
+        "Sell and distribute candles",
+        "Oversee facility clean up and lock up during closing",
+    },
     {
+      "company": "Mililani High School",
+      "position": "Volunteer/Technician",
+      "website": "http://www.mhsmarching.org",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "summary": "",
+      "highlights": [
+        "Assist director in teaching new material such as music and body movement",
+        "Provide one on one assistance to students in need of help",
+        "Maintain focus during rehearsal and provide disciplinary action when needed",
     }
   ],
   "references": [
     {
       "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
