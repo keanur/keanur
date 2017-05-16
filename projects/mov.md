@@ -13,4 +13,10 @@ labels:
 summary: Developing video editing software optimized for mobile
 ---
 
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/mov1.PNG">
+  <img class="ui image" src="../images/mov2.PNG">
+  <img class="ui image" src="../images/mov3.PNG">
+</div>
+
 Under Construction
