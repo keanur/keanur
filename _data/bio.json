@@ -6,7 +6,7 @@
     "email": "keanur@hawaii.edu",
     "phone": "",
     "website": "https://keanur.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2017.",
+    "summary": "From 2013 - 2017, I studied at the University of Hawaii at Manoa and recieved a Bachelor of Science in Computer Engineering. My interests range from computer architecture and design, to software engineering and mobile development.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -29,24 +29,33 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Raspberry Pi",
+        "Arduino"
       ]
     },
     {
-      "name": "semiconductors",
+      "name": "Computer Architecture",
       "keywords": [
-        "silicon",
-        "graphene"
+        "ARMv8",
+        "RISC"
       ]
     },
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
-        "databases",
-        "application development"
+        "Databases",
+        "Mobile Development"
+        ]
+    },
+    {
+      "name": "Moblie Development",
+      "keywords": [
+        "iOS",
+        "Swift",
+        "Android",
+        "Java"
         ]
     }
   ],
@@ -56,18 +65,21 @@
       "level": "",
       "keywords": [
         "C",
-        "C++"
+        "C++",
+        "Java",
+        "JS",
+        "Swift"
       ]
     },
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2017)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2013-08-26",
-      "endDate": "Present",
-      "gpa": "3.14",
+      "endDate": "2017-05-12",
+      "gpa": "2.91",
       "courses": [
       ]
     }
@@ -104,7 +116,7 @@
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-15",
-      "endDate": "Present",
+      "endDate": "2017-05-11",
       "summary": "",
       "highlights": [
         "Provide email support for users",
@@ -130,7 +142,7 @@
     {
       "organization": "Mililani High School",
       "position": "Volunteer/Technician",
-      "website": "http://www.mhsmarching.org",
+      <!-- "website": "http://www.mhsmarching.org", -->
       "startDate": "2013-01-01",
       "endDate": "2015-01-01",
       "summary": "",
