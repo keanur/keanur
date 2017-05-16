@@ -19,4 +19,4 @@ summary: Developing video editing software optimized for mobile
   <img class="ui image" src="../images/mov3.PNG">
 </div>
 
-Under Construction
+<p>Under Construction</p>
