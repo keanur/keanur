@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/placeholder.png
 title: MOV
-permalink: projects/graphene
+permalink: projects/mov
 date: 2017
 labels:
   - Swift
