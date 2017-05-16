@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://semantic-ui.com/images/wireframe/image.png
+image: /images/placeholder.png
 title: MOV
 permalink: projects/graphene
 date: 2017
