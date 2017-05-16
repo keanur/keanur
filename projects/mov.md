@@ -8,7 +8,8 @@ date: 2017
 labels:
   - Swift
   - Xcode
-  - Software
+  - Software Engineering
+  - Mobile Development
 summary: Developing video editing software optimized for mobile
 ---
 
