@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/placeholder.png
+image: images/placeholder.png
 title: MOV
 permalink: projects/graphene
 date: 2017
