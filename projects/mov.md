@@ -21,9 +21,9 @@ MOV is a video editing app for iOS that is optimized for a mobile experience. Af
 
 <h2>Screenshots</h2>
 <div class="ui small rounded images">
-  <img class="ui centered image" src="../images/mov1.PNG">
-  <img class="ui centered image" src="../images/mov2.PNG">
-  <img class="ui centered image" src="../images/mov3.PNG">
+  <img class="ui image" src="../images/mov1.PNG">
+  <img class="ui image" src="../images/mov2.PNG">
+  <img class="ui image" src="../images/mov3.PNG">
 </div>
 
 
