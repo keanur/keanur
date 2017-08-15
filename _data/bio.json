@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Keanu Robles",
-    "label": "Help Desk Consultant",
+    "label": "IT Specialist",
     "picture": "https://keanur.github.io/images/IMG_2753.jpg",
     "email": "keanur@hawaii.edu",
     "phone": "",
@@ -116,6 +116,19 @@
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-15",
+      "endDate": "2017-05-11",
+      "summary": "",
+      "highlights": [
+        "Provide email support for users",
+        "Troubleshoot problems over the phone",
+        "Assist with managing the UH-Manoa wireless network",
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "IT Specialist",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "",
       "endDate": "2017-05-11",
       "summary": "",
       "highlights": [
