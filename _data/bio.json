@@ -86,16 +86,17 @@
   ],
   "work": [
     {
-      "company": "UH Information Technology Services",
+      "company": "University of Hawai'i Information Technology Services",
       "position": "IT Specialist",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2017-05-11",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Manage the UH database",
-        "Oversee network on UH Campuses",
-        "Provide support for various UH software",
+        "Assess, evaluate, and resolve issues for UH customers regarding hardware, software, network, and servers",
+        "Provide in-depth troubleshooting of account issues associated with the Banner Student Information System (SIS) and other integrated systems",
+        "Independently research, provide valid detailed and accurate testing results, and write up documentation of new applications or new versions of software",
+        "Provide supervision, guidance, and direction to the ITS Help Desk students in their execution of job-related tasks",
       ]
     }
   ],
