@@ -97,10 +97,10 @@
         "Provide in-depth troubleshooting of account issues associated with the Banner Student Information System (SIS) and other integrated systems",
         "Independently research, provide valid detailed and accurate testing results, and write up documentation of new applications or new versions of software",
         "Provide supervision, guidance, and direction to the ITS Help Desk students in their execution of job-related tasks",
-        "Provide evaluation and in-depth support of services and systems within the scope of the ITS Help Desk support (e.g. DNS and IP addresses, Listserv, Sakai (LMS), email services)"
-        "Assist with monitoring and incident response for production UH systems and services, including publishing notices and updates on service status to the UH community and involvement with security incident remediation"
-        "Assist with advisement and remediation of web pages and documents for accessibility compliance"
-        "Process account requests for UH Financial Systems (Kuali Financial System and PageCenter X), including provisioning and deprovisioning of user access"
+        "Provide evaluation and in-depth support of services and systems within the scope of the ITS Help Desk support (e.g. DNS and IP addresses, Listserv, Sakai (LMS), email services)",
+        "Assist with monitoring and incident response for production UH systems and services, including publishing notices and updates on service status to the UH community and involvement with security incident remediation",
+        "Assist with advisement and remediation of web pages and documents for accessibility compliance",
+        "Process account requests for UH Financial Systems (Kuali Financial System and PageCenter X), including provisioning and deprovisioning of user access",
       ]
     }
   ],
