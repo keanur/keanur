@@ -85,45 +85,6 @@
     }
   ],
   "work": [
-  {
-      "company": "School of Ocean, Earth Science, and Technology",
-      "position": "Office Assistant",
-      "website": "https://www.soest.hawaii.edu/soestwp/",
-      "startDate": "2013-10-01",
-      "endDate": "2014-08-15",
-      "summary": "",
-      "highlights": [
-        "Sorted and filed incoming and outgoing mail",
-        "Maintained office inventory",
-        "Created spreadsheets for files such as purchasing card logs",
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Student Assistant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-15",
-      "endDate": "2016-09-09",
-      "summary": "",
-      "highlights": [
-        "Provide assistance to ITS computer lab users (i.e. reset user passwords, etc.)",
-        "Maintain the ITS computer labs",
-        "Assist with wireless configuration for connection to the UH-Manoa wireless network",
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-15",
-      "endDate": "2017-05-11",
-      "summary": "",
-      "highlights": [
-        "Provide email support for users",
-        "Troubleshoot problems over the phone",
-        "Assist with managing the UH-Manoa wireless network",
-      ]
-    },
     {
       "company": "UH Information Technology Services",
       "position": "IT Specialist",
@@ -139,32 +100,6 @@
     }
   ],
   "volunteer": [
-    {
-      "organization": "St. John Apostle and Evangelist Catholic Church",
-      "position": "Usher",
-      "website": "http://www.stjohnmililani.org",
-      "startDate": "2009-01-01",
-      "endDate": "2017-01-01",
-      "summary": "",
-      "highlights": [
-        "Manage incoming donations",
-        "Sell and distribute candles",
-        "Oversee facility clean up and lock up during closing",
-      ]
-    },
-    {
-      "organization": "Mililani High School",
-      "position": "Volunteer/Technician",
-      "website": "http://www.mhsmarching.org",
-      "startDate": "2013-01-01",
-      "endDate": "2015-01-01",
-      "summary": "",
-      "highlights": [
-        "Assist director in teaching new material such as music and body movement",
-        "Provide one on one assistance to students in need of help",
-        "Maintain focus during rehearsal and provide disciplinary action when needed",
-      ]
-    }
   ],
   "references": [
     {
