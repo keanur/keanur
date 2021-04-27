@@ -49,6 +49,13 @@
         "CSS"
         ]
     },
+        {
+      "name": "Web Accessibility",
+      "keywords": [
+        "WGAC 2.1",
+        "Section 508"
+        ]
+    },
     {
       "name": "Moblie Development",
       "keywords": [
@@ -57,7 +64,7 @@
         "Android",
         "Java"
         ]
-    }
+    },
   ],
   "skills": [
     {
